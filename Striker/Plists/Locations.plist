@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>FT</string>
+	<string>Johor</string>
+	<string>Kedah</string>
+	<string>Kelantan</string>
+	<string>Melaka</string>
+	<string>N.Sembilan</string>
+	<string>Pahang</string>
+	<string>Perak</string>
+	<string>Perlis</string>
+	<string>Pulau Pinang</string>
+	<string>Sabah</string>
+	<string>Sarawak</string>
+	<string>Selangor</string>
+	<string>Terengganu</string>
+</array>
+</plist>

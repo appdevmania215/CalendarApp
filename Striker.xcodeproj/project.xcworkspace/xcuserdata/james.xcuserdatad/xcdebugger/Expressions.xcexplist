@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__43-[ChatViewController sendPressed:withText:]_block_invoke:ChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatViewController viewDidLoad]:ChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_match[@&quot;bio&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatViewController sendPressed:withText:]:ChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.messageArray[0]">
+            </PersistentString>
+            <PersistentString
+               value = "self.messageArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__36-[ChatViewController viewDidAppear:]_block_invoke:ChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict[52]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__33-[ChatViewController viewDidLoad]_block_invoke:ChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dict[37]">
+            </PersistentString>
+            <PersistentString
+               value = "dict[i][@&quot;sent_time&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatViewController messageTypeForRowAtIndexPath:]:ChatViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__41-[MatchPopupViewController confirmClick:]_block_invoke:MatchPopupViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "chatviewcontroller.match">
+            </PersistentString>
+            <PersistentString
+               value = "chatviewcontroller.confirmed_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

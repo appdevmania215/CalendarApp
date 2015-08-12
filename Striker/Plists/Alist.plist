@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Selangor</key>
+		<array>
+			<string>Shah Alam</string>
+			<string>Petaling Jaya</string>
+			<string>Klang (Jalan Dato’ Hamzah)</string>
+			<string>Klang (Menara A &amp; M)</string>
+			<string>Ampang</string>
+			<string>Bandar Baru Bangi</string>
+			<string>Kajang</string>
+			<string>Selayang</string>
+			<string>Kuala Kubu Bharu</string>
+			<string>Semenyih</string>
+			<string>Telok Datok</string>
+			<string>Sepang</string>
+			<string>Kuala Selangor</string>
+			<string>Sungai Besar</string>
+			<string>Sepang </string>
+		</array>
+		<key>Johor</key>
+		<array>
+			<string>Johor Bahru</string>
+			<string>Muar</string>
+			<string>Batu Pahat</string>
+			<string>Kota Tinggi</string>
+			<string>Segamat</string>
+			<string>Kluang</string>
+			<string>Kulai</string>
+			<string>Pontian</string>
+			<string>Tangkak</string>
+		</array>
+		<key>Kedah</key>
+		<array>
+			<string>Alor Setar</string>
+			<string>Sungai Petani</string>
+			<string>Baling</string>
+			<string>Bandar Bharu</string>
+			<string>Gurun</string>
+			<string>Jitra</string>
+			<string>Kuala Nerang</string>
+			<string>Kulim</string>
+			<string>Langkawi</string>
+			<string>Sik</string>
+			<string>Yan</string>
+		</array>
+		<key>Kelantan</key>
+		<array>
+			<string>Kota Bahru</string>
+			<string>Pasir Mas</string>
+			<string>Gua Musang</string>
+			<string>Pati</string>
+			<string>Bachok</string>
+			<string>Jeli</string>
+			<string>Kuala Krai</string>
+			<string>Machang</string>
+			<string>Pasir Puteh</string>
+			<string>Tanah merah</string>
+			<string>Tumpat</string>
+		</array>
+		<key>FT</key>
+		<array>
+			<string>Kuala Lumpur</string>
+			<string>Putrajaya</string>
+			<string>Labuan</string>
+		</array>
+		<key>Melaka</key>
+		<array>
+			<string>Melaka</string>
+			<string>Alor Gajah</string>
+			<string>Jasin</string>
+		</array>
+		<key>Negeri Sembilan</key>
+		<array>
+			<string>Seremban</string>
+			<string>Kuala Pilah</string>
+			<string>Bahau</string>
+			<string>Gemas</string>
+			<string>Jelebu</string>
+			<string>Port Dickson</string>
+			<string>Rembau</string>
+			<string>Tampin</string>
+		</array>
+		<key>Pahang</key>
+		<array>
+			<string>Kuantan</string>
+			<string>Temerloh</string>
+			<string>Raub</string>
+			<string>Rompin</string>
+			<string>Pekan</string>
+			<string>Bentong</string>
+			<string>Maran</string>
+			<string>Kuala Lipis</string>
+			<string>Cameron Highlands</string>
+		</array>
+		<key>Perlis</key>
+		<array>
+			<string>Kangar</string>
+		</array>
+		<key>Perak</key>
+		<array>
+			<string>Ipoh</string>
+			<string>Taiping</string>
+			<string>Teluk Intan</string>
+			<string>Kuala Kangsar</string>
+			<string>Batu Gajah</string>
+			<string>Kampar</string>
+			<string>Tapah</string>
+			<string>Parit Buntar</string>
+			<string>Sungai Siput</string>
+			<string>Seri Manjung</string>
+			<string>Slim River</string>
+			<string>Gerik</string>
+			<string>Lenggong</string>
+			<string>Tanjung Malim</string>
+			<string>Pengkalan Hulu</string>
+			<string>Parit</string>
+			<string>Selama</string>
+			<string>Pantai Remis</string>
+		</array>
+		<key>Pulau Pinang</key>
+		<array>
+			<string>Pulau Pinang</string>
+			<string>Butterworth</string>
+			<string>Balik Pulau</string>
+			<string>Bukit Mertajam</string>
+			<string>Jawi</string>
+		</array>
+		<key>Terengganu</key>
+		<array>
+			<string>Kuala Terengganu</string>
+			<string>Kemaman</string>
+			<string>Dungun</string>
+			<string>Besut</string>
+			<string>Setiu</string>
+			<string>Marang</string>
+			<string>Kuala Berang</string>
+		</array>
+		<key>Sabah</key>
+		<array>
+			<string>Kota Kinabalu</string>
+			<string>Tawau</string>
+			<string>Labuan</string>
+			<string>Keningan</string>
+			<string>Kudat</string>
+			<string>Sandakan</string>
+			<string>Lahad Datu</string>
+			<string>Semporna</string>
+			<string>Beaufort</string>
+		</array>
+		<key>Sarawak</key>
+		<array>
+			<string>Kuching</string>
+			<string>Sibu</string>
+			<string>Bintulu</string>
+			<string>Miri</string>
+			<string>Sri Aman</string>
+			<string>Limbang</string>
+			<string>Sarikei</string>
+			<string>Mukah</string>
+			<string>Kapit</string>
+			<string>Semarahan</string>
+		</array>
+	</dict>
+	<array>
+		<string>Selangor</string>
+		<string>Johor</string>
+		<string>Kedah</string>
+		<string>Kelantan</string>
+		<string>FT</string>
+		<string>Melaka</string>
+		<string>Negeri Sembilan</string>
+		<string>Pahang</string>
+		<string>Perlis</string>
+		<string>Perak</string>
+		<string>Pulau Pinang</string>
+		<string>Terengganu</string>
+		<string>Sabah</string>
+		<string>Sarawak</string>
+	</array>
+</array>
+</plist>
